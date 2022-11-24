@@ -9,6 +9,7 @@
   class WhoAmI:
     user = 'Berk Beleli'
 	current_edu = "VGTU"
+	currently_learning = "React"
 	hobbies = [
 				'Music',
                          'Chilling',
