@@ -26,7 +26,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=berkbeleli&&show_icons=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkbeleli&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbeleli&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbeleli&theme=github_dark&layout=compact"/>|
 
 ## Programming Languages, Frameworks and Libraries
 
