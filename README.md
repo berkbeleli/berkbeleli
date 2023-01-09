@@ -9,7 +9,7 @@
   class WhoAmI:
     user = 'Berk Beleli'
 	current_edu = "VGTU"
-	currently_learning = "React"
+	currently_learning = "Node.js"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -24,14 +24,13 @@
  
  ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=berkbeleli&&show_icons=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkbeleli&theme=blueberry_duo"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=berkbeleli&&show_icons=true&theme=tokyonight">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkbeleli&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbeleli&theme=github_dark&layout=compact"/>|
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=berkbeleli&theme=tokyonight&layout=compact"/>|
 
 ## Programming Languages, Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E"></a>
 	 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
@@ -80,5 +79,5 @@
  </p>
  
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=berkbeleli&label=Profile%20views&color=0e75b6&style=flat" alt="berkbeleli" />
+ <img src="https://komarev.com/ghpvc/?username=berkbeleli&color=blue&style=for-the-badge" alt="berkbeleli" />
  </p>
