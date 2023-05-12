@@ -9,7 +9,7 @@
   class WhoAmI:
     user = 'Berk Beleli'
 	current_edu = "VGTU"
-	currently_learning = "Node.js"
+	currently_learning = "Flutter"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -34,7 +34,6 @@
 	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 	<a href="#"><img alt="Nextjs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="></a>
 		<a href="#"><img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 	     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E"></a>
 	 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
@@ -72,6 +71,12 @@
 </p>
 
 
+## Random Dev Quote
+
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="randomquote" />
+ </p>
+ 
 ## Connect with Me
 
 
